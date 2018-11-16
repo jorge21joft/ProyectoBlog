@@ -1,0 +1,50 @@
+html,body{
+    margin : 0px;
+    font-family: 'Roboto', sans-serif;
+}
+boton{
+    background-color: inherit;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+.red{
+    color: #E74C3C !important;
+}
+a:visited{
+    color: inherit ;
+    text-decoration: none;
+}
+
+.be-red{
+ background-color: #E74C3C;  
+}
+.white{
+ color: #ECF0F1;   
+}
+
+.top-space{
+    margin-top:lem;
+}
+
+.large-padding{
+padding: 10px 7px;
+}
+
+.titulo{
+    margin-top: lem;
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid;
+    outline: 100%;
+    width: 100%;
+    display: block;
+    padding: 10px 0px;
+    font-size: 1.2em;
+}
+.row-centered {
+    text-align:center;
+}
