@@ -28,4 +28,7 @@ crear directorio
 desde consola git init
 indicarle a git cual es el repositorio "co la ruta"
 
+version de Rails 5.2.1
+version de  ruby 2.3.3
 
+Base de datos sqlite
