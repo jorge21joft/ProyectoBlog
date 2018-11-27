@@ -23,6 +23,9 @@ Things you may want to cover:
 
 * ...
 
+Este es un blog donde se puede logear y crear publicaciones asi tambien como comentarlas
+
+
 clonar proyecto
 crear directorio
 desde consola git init
