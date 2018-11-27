@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+clonar proyecto
+crear directorio
+desde consola git init
+indicarle a git cual es el repositorio "co la ruta"
+
+
